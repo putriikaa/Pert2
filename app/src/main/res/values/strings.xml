@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Pert2</string>
-    <string name="btn_test_1">Test1</string>
-    <string name="btn_test_2">Test2</string>
+    <string name="btn_test_1">Yes</string>
+    <string name="btn_test_2">No</string>
 </resources>
